@@ -26,4 +26,5 @@ RulerView 继承自View，根据设计小姐姐需求，让用户在选择身高
         });
 #### 3，预览效果如下
   <img src="https://github.com/zdc212133/RulerView/blob/master/screenshot/Screenshot_20190408-115412.jpg">
+  <img src="https://github.com/zdc212133/RulerView/blob/master/screenshot/Screenshot_20190408-133915.jpg">
   <img src="https://github.com/zdc212133/RulerView/blob/master/screenshot/Screenshot_20190408-115517.jpg">
